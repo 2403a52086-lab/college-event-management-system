@@ -1,1 +1,1 @@
-# college-event-management-system
+# College Event Management System - Event Scheduling
